@@ -1,0 +1,848 @@
+City Name,Zone Name,CCTV Junction No.,CCTV Pole No.,CCTV LOCATION
+Nagpur,Dhantoli,1,Pole 1,Open place near M.P.Bus Stand
+Nagpur,Dharampeth,2,Pole 1,Opposite to old Mores college
+Nagpur,Dhantoli,3,Pole 1,Zasirani chowk
+Nagpur,Dhantoli,3,Pole 2,Zasirani chowk
+Nagpur,Dhantoli,4,Pole 1,Munje chowk
+Nagpur,Dhantoli,5,Pole 1,Manas chowk
+Nagpur,Dharampeth,6,Pole 1,Akash Wani chowk
+Nagpur,Dharampeth,6,Pole 2,Akash Wani chowk
+Nagpur,Dharampeth,7,Pole 1,Board office square
+Nagpur,Dharampeth,7,Pole 2,Board office square
+Nagpur,Dhantoli,8,Pole 1,Panchshil square
+Nagpur,Dhantoli,8,Pole 2,Panchshil square
+Nagpur,Laxmi Nagar,9,Pole 1,Canal Road Shri Ram bhavan square
+Nagpur,Dharampeth,10,Pole 1,Mories college T Point
+Nagpur,Dhantoli,11,Pole 1,Jaystambh square Railway station
+Nagpur,Dharampeth,12,Pole 1,R.B.I square
+Nagpur,Dharampeth,12,Pole 2,R.B.I square
+Nagpur,Dharampeth,13,Pole 1,GPO square
+Nagpur,Dharampeth,13,Pole 2,GPO square
+Nagpur,Dharampeth,14,Pole 1,RajaRani square
+Nagpur,Dharampeth,14,Pole 2,RajaRani square
+Nagpur,Dharampeth,15,Pole 1,MLA Hostel square
+Nagpur,Dharampeth,15,Pole 2,MLA Hostel square
+Nagpur,Dharampeth,16,Pole 1,Variety square
+Nagpur,Dharampeth,16,Pole 2,Variety square
+Nagpur,Dharampeth,16,Pole 3,Variety square
+Nagpur,Dharampeth,17,Pole 1,Maharaja Bagh square
+Nagpur,Dharampeth,17,Pole 2,Maharaja Bagh square
+Nagpur,Dharampeth,18,Pole 1,Bhole petrol square
+Nagpur,Dharampeth,18,Pole 2,Bhole petrol square
+Nagpur,Dharampeth,19,Pole 1,University Library square
+Nagpur,Dharampeth,19,Pole 2,University Library square
+Nagpur,Dharampeth,20,Pole 1,Alankar talkies square
+Nagpur,Dharampeth,20,Pole 2,Alankar talkies square
+Nagpur,Laxmi Nagar,21,Pole 1,Shankar Nagar square
+Nagpur,Laxmi Nagar,21,Pole 2,Shankar Nagar square
+Nagpur,Dharampeth,22,Pole 1,Y Point Children park
+Nagpur,Dharampeth,22,Pole 2,Y Point Children park
+Nagpur,Dharampeth,23,Pole 1,Laxmi Bhavan square
+Nagpur,Dharampeth,23,Pole 2,Laxmi Bhavan square
+Nagpur,Laxmi Nagar,24,Pole 1,Gyara Majali Building
+Nagpur,Laxmi Nagar,24,Pole 2,Gyara Majali Building
+Nagpur,Laxmi Nagar,25,Pole 1,Lendra park T point
+Nagpur,Laxmi Nagar,26,Pole 1,Kachipura square
+Nagpur,Laxmi Nagar,26,Pole 2,Kachipura square
+Nagpur,Dharampeth,27,Pole 1,Futala lake open place
+Nagpur,Laxmi Nagar,28,Pole 1,Ambazari Talav area
+Nagpur,Dharampeth,29,Pole 1,Telankhadi Garden open place
+Nagpur,Laxmi Nagar,30,Pole 1,Ambazari T point
+Nagpur,Dharampeth,31,Pole 1,Juna Amravati Naka
+Nagpur,Dharampeth,32,Pole 1,Ravi nagar square
+Nagpur,Dharampeth,32,Pole 2,Ravi nagar square
+Nagpur,Dharampeth,33,Pole 1,Futala lake y point
+Nagpur,Dharampeth,34,Pole 1,Futala lake vadache jhad point
+Nagpur,Dharampeth,35,Pole 1,Ram nagar square
+Nagpur,Dharampeth,35,Pole 2,Ram nagar square
+Nagpur,Dharampeth,35,Pole 3,Ram nagar square
+Nagpur,Dharampeth,36,Pole 1,Bajaj nagar square
+Nagpur,Dharampeth,36,Pole 2,Bajaj nagar square
+Nagpur,Dharampeth,37,Pole 1,LAD Square
+Nagpur,Dharampeth,37,Pole 2,LAD Square
+Nagpur,Dharampeth,38,Pole 1,Ladies Club square
+Nagpur,Dharampeth,38,Pole 2,Ladies Club square
+Nagpur,Dharampeth,39,Pole 1,LAW College square
+Nagpur,Dharampeth,39,Pole 2,LAW College square
+Nagpur,Dharampeth,40,Pole 1,Coffee house square
+Nagpur,Laxmi Nagar,41,Pole 1,Bajaj nagar
+Nagpur,Laxmi Nagar,42,Pole 1,Opp Wockhart Hospital
+Nagpur,Dharampeth,43,Pole 1,Bharat nagar T Point
+Nagpur,Dharampeth,43,Pole 2,Bharat nagar T Point
+Nagpur,Dharampeth,44,Pole 1,Near Madrasi Mandir
+Nagpur,Dharampeth,45,Pole 1,Pandharbodi
+Nagpur,Dharampeth,46,Pole 1,Gokulpeth market
+Nagpur,Laxmi Nagar,47,Pole 1,Abhyankar Nagar Road
+Nagpur,Dharampeth,48,Pole 1,Telankhedi Area
+Nagpur,Dharampeth,49,Pole 1,Ambazari Bay Bas Road
+Nagpur,Laxmi Nagar,50,Pole 1,Shivaji Nagar Gardan
+Nagpur,Dharampeth,51,Pole 1,Shivaji Nagar Basket ball ground
+Nagpur,Laxmi Nagar,52,Pole 1,Near carzy casal
+Nagpur,Laxmi Nagar,53,Pole 1,Esasni Area
+Nagpur,Laxmi Nagar,54,Pole 1,Waghdhara Area
+Nagpur,Laxmi Nagar,55,Pole 1,SRPF Gate No.2
+Nagpur,Laxmi Nagar,56,Pole 1,Yashodhara nagar t point hingna road
+Nagpur,Laxmi Nagar,57,Pole 1,Gadge nagar t point hingna road
+Nagpur,Laxmi Nagar,58,Pole 1,SRPF Geat petrol pump bansi nagar hingna road
+Nagpur,Laxmi Nagar,59,Pole 1,Deshmukh treding company t point hingna road
+Nagpur,Laxmi Nagar,60,Pole 1,Sent zeviyrs school t point hingana road
+Nagpur,Laxmi Nagar,61,Pole 1,CRPF gate t point hingana road
+Nagpur,Laxmi Nagar,62,Pole 1,IC Chowk t point hingana road
+Nagpur,Laxmi Nagar,63,Pole 1,Zone chowk hingana road
+Nagpur,Laxmi Nagar,63,Pole 2,Zone chowk hingana road
+Nagpur,Laxmi Nagar,64,Pole 1,Rajiv nagar road hingna road
+Nagpur,Laxmi Nagar,65,Pole 1,Ycce college main gate hingana road
+Nagpur,Laxmi Nagar,66,Pole 1,Wanadongri t point
+Nagpur,Dharampeth,67,Pole 1,Khadgaon Road
+Nagpur,Dharampeth,68,Pole 1,Wadi Naka No.10
+Nagpur,Dharampeth,69,Pole 1,Control Wadi
+Nagpur,Dharampeth,70,Pole 1,MIDC Tarnign
+Nagpur,Dharampeth,71,Pole 1,Katol Road BayPass
+Nagpur,Dharampeth,72,Pole 1,KhadGaon Road tarnign
+Nagpur,Dharampeth,73,Pole 1,Dattawadi Square
+Nagpur,Dharampeth,74,Pole 1,Dattawadi Sarafa Bazar
+Nagpur,Dharampeth,75,Pole 1,GuruDatta Socity
+Nagpur,Dharampeth,76,Pole 1,PS Main Gate
+Nagpur,Dharampeth,77,Pole 1,8 th Mail Road
+Nagpur,Dharampeth,77,Pole 2,8 th Mail Road
+Nagpur,Dharampeth,78,Pole 1,Ambedakar Nagar Square
+Nagpur,Dharampeth,79,Pole 1,Davalamethi Road
+Nagpur,Dharampeth,80,Pole 1,8 th Mail Market Road
+Nagpur,Dharampeth,81,Pole 1,Waddhamna Square
+Nagpur,Dharampeth,82,Pole 1,Surabaldi Gaon Tranign
+Nagpur,Dharampeth,83,Pole 1,HighLand Park Tarnig
+Nagpur,Dharampeth,84,Pole 1,Dhammakirtinagar
+Nagpur,Laxmi Nagar,85,Pole 1,Outer ring road area 
+Nagpur,Laxmi Nagar,85,Pole 1,Sonegaon Talav 
+Nagpur,Laxmi Nagar,85,Pole 1,open place near to Talav
+Nagpur,Laxmi Nagar,85,Pole 1, Shivangaon area
+Nagpur,Dhantoli,86,Pole 1,Somalwada chowk
+Nagpur,Dhantoli,87,Pole 1,Manish Nagar Railway
+Nagpur,Dhantoli,88,Pole 1,Reliance Fresh
+Nagpur,Hanuman Nagar,89,Pole 1,Purshottam Bazar Beltrodi
+Nagpur,Hanuman Nagar,90,Pole 1,Padmavati T–Point
+Nagpur,Dhantoli,91,Pole 1,Chinch bhvan bus stop
+Nagpur,Laxmi Nagar,92,Pole 1,Sahkar Nagar
+Nagpur,Dhantoli,93,Pole 1,Wardha road Rajiv Nagar Square
+Nagpur,Dhantoli,94,Pole 1,Infront of Hotel Pride
+Nagpur,Dhantoli,94,Pole 2,Infront of Hotel Pride
+Nagpur,Laxmi Nagar,95,Pole 1,Bhende layout Square
+Nagpur,Laxmi Nagar,95,Pole 2,Bhende layout Square
+Nagpur,Laxmi Nagar,96,Pole 1,Trimurti chowk
+Nagpur,Laxmi Nagar,96,Pole 2,Trimurti chowk
+Nagpur,Laxmi Nagar,97,Pole 1,Sambhaji chowk
+Nagpur,Laxmi Nagar,98,Pole 1,Padole chowk
+Nagpur,Laxmi Nagar,99,Pole 1,Pratap Nagar chowk
+Nagpur,Laxmi Nagar,99,Pole 2,Pratap Nagar chowk
+Nagpur,Dhantoli,100,Pole 1,Coca Cola chowk
+Nagpur,Dhantoli,100,Pole 2,Coca Cola chowk
+Nagpur,Laxmi Nagar,101,Pole 1,Khamla market 
+Nagpur,Laxmi Nagar,102,Pole 1,Khamla maton market chowk
+Nagpur,Laxmi Nagar,103,Pole 1,Mokhare college
+Nagpur,Laxmi Nagar,104,Pole 1,Jaytala bazaar chowk
+Nagpur,Laxmi Nagar,105,Pole 1,Hingna T point
+Nagpur,Laxmi Nagar,106,Pole 1,Mangalmurti chowk
+Nagpur,Laxmi Nagar,106,Pole 2,Mangalmurti chowk
+Nagpur,Laxmi Nagar,107,Pole 1,Shubhash nagar T pointVivekanand Statue
+Nagpur,Laxmi Nagar,107,Pole 2,Shubhash nagar T point
+Nagpur,Laxmi Nagar,108,Pole 1,Mate chowk
+Nagpur,Laxmi Nagar,108,Pole 2,Mate chowk
+Nagpur,Laxmi Nagar,109,Pole 1,Laxminagar chowk
+Nagpur,Laxmi Nagar,109,Pole 2,Laxminagar chowk
+Nagpur,Laxmi Nagar,110,Pole 1,Athat Rasta chowk
+Nagpur,Laxmi Nagar,110,Pole 2,Athat Rasta chowk
+Nagpur,Laxmi Nagar,111,Pole 1,Jerlly lawn
+Nagpur,Laxmi Nagar,112,Pole 1,Savarkar nagar chowk
+Nagpur,Laxmi Nagar,112,Pole 2,Savarkar nagar chowk
+Nagpur,Dhantoli,113,Pole 1,Sneh nagar petrol pump
+Nagpur,Dhantoli,114,Pole 1,Sneh nagar garden
+Nagpur,Laxmi Nagar,115,Pole 1,Pande layout pani tanki
+Nagpur,Laxmi Nagar,116,Pole 1,Gulmohar lawn
+Nagpur,Laxmi Nagar,117,Pole 1,Rammandir swavalambi nagar
+Nagpur,Laxmi Nagar,118,Pole 1,Survey nagar
+Nagpur,Laxmi Nagar,119,Pole 1,Nelco society
+Nagpur,Laxmi Nagar,119,Pole 2,Nelco society
+Nagpur,Laxmi Nagar,120,Pole 1,Rpts road
+Nagpur,Laxmi Nagar,121,Pole 1,Jain mandir laxminagar
+Nagpur,Laxmi Nagar,122,Pole 1,Radhey mamgalam gali
+Nagpur,Laxmi Nagar,123,Pole 1,Ganesh mandir tatya tope nagar
+Nagpur,Laxmi Nagar,124,Pole 1,Pratap nagar durga mandir
+Nagpur,Laxmi Nagar,125,Pole 1,Aaji aajoba park
+Nagpur,Laxmi Nagar,126,Pole 1,Nit garden trimurti nagar
+Nagpur,Dharampeth,127,Pole 1,Opposite to C.P. Club
+Nagpur,Mangalwari,128,Pole 1,Opposite to St.John School
+Nagpur,Mangalwari,129,Pole 1,Aakar Building Area
+Nagpur,Mangalwari,130,Pole 1,L.I.C. Chowk
+Nagpur,Mangalwari,131,Pole 1,Gaddigodanm square
+Nagpur,Mangalwari,132,Pole 1,Meshram putla square
+Nagpur,Mangalwari,133,Pole 1,Chhovani square
+Nagpur,Dharampeth,134,Pole 1,V.C.A. chowk
+Nagpur,Dharampeth,134,Pole 2,V.C.A. chowk
+Nagpur,Mangalwari,135,Pole 1,Punam chamber ahead
+Nagpur,Mangalwari,136,Pole 1,Pagalkhana square
+Nagpur,Mangalwari,136,Pole 2,Pagalkhana square
+Nagpur,Mangalwari,137,Pole 1,Hotel Ashoka Chowk
+Nagpur,Mangalwari,137,Pole 2,Hotel Ashoka Chowk
+Nagpur,Mangalwari,138,Pole 1,Durga Mata Mandir Chowk
+Nagpur,Mangalwari,139,Pole 1,Police Talao Chowk
+Nagpur,Mangalwari,140,Pole 1,Gondwana Chowk
+Nagpur,Mangalwari,140,Pole 2,Gondwana Chowk
+Nagpur,Mangalwari,141,Pole 1,Punam Chamber
+Nagpur,Dharampeth,142,Pole 1,Mohd. Rafi Chowk
+Nagpur,Dharampeth,142,Pole 2,Mohd. Rafi Chowk
+Nagpur,Dharampeth,143,Pole 1,RaviBhavan Main Gate
+Nagpur,Dharampeth,143,Pole 2,RaviBhavan Main Gate
+Nagpur,Dharampeth,144,Pole 1,Futala Talao Road Ramgiri Banglow Chowk
+Nagpur,Dharampeth,144,Pole 2,Futala Talao Road Ramgiri Banglow Chowk
+Nagpur,Dharampeth,145,Pole 1,RajBhavan Rear Gate Chowk
+Nagpur,Dharampeth,145,Pole 2,RajBhavan Rear Gate Chowk
+Nagpur,Mangalwari,146,Pole 1,Mangalwari Bazar Complex
+Nagpur,Mangalwari,146,Pole 2,Mangalwari Bazar Complex
+Nagpur,Mangalwari,147,Pole 1,Sadar  Karachi  Galli  Residency  Road  Gandhi Chowk
+Nagpur,Dharampeth,148,Pole 1,Administrative  Building  No. 1 2 and District Compound Bazar
+Nagpur,Mangalwari,149,Pole 1,In Front of Shriram Tower Parking
+Nagpur,Mangalwari,149,Pole 2,In Front of Shriram Tower Parking
+Nagpur,Dharampeth,150,Pole 1,In Front of Tahsil Office Gate
+Nagpur,Dharampeth,151,Pole 1,In front of Collector Office Gate
+Nagpur,Dharampeth,152,Pole 1,District Court Main Gate
+Nagpur,Mangalwari,153,Pole 1,RajBhavan Sadar Bus Stand
+Nagpur,Dharampeth,154,Pole 1,In front of DCP Zone II Office
+Nagpur,Mangalwari,155,Pole 1,Chhaoni Police Chowki T Point
+Nagpur,Mangalwari,156,Pole 1,MangalDeep Chowk T Point
+Nagpur,Dharampeth,157,Pole 1,Hanuman Mandir sewa Banglow
+Nagpur,Mangalwari,158,Pole 1,Liberty Talkies Chowk
+Nagpur,Dharampeth,159,Pole 1,Dabha Area
+Nagpur,Dharampeth,160,Pole 1,C.P.W. colony
+Nagpur,Dharampeth,161,Pole 1,Hazaripahad area
+Nagpur,Dharampeth,162,Pole 1,Japani garden square
+Nagpur,Dharampeth,162,Pole 2,Japani garden square
+Nagpur,Mangalwari,163,Pole 1,Juna Katol Naka Square
+Nagpur,Mangalwari,163,Pole 2,Juna Katol Naka Square
+Nagpur,Mangalwari,164,Pole 1,Gorewada square
+Nagpur,Dharampeth,165,Pole 1,Dabha square
+Nagpur,Mangalwari,166,Pole 1,Awasthi nagar T point
+Nagpur,Mangalwari,167,Pole 1,Seminary Hills Near Balodyan vihar
+Nagpur,Dharampeth,168,Pole 1,T.V. Tower Chowk
+Nagpur,Dharampeth,169,Pole 1,Veternary college Chowk
+Nagpur,Dharampeth,170,Pole 1,In front of Botanical Garden
+Nagpur,Dharampeth,171,Pole 1,L.A.D. College Chowk
+Nagpur,Dharampeth,172,Pole 1,Near Telangkhedi Hanuman Mandir
+Nagpur,Dharampeth,173,Pole 1,Gittikhadan Chowk
+Nagpur,Dharampeth,174,Pole 1,K.T.Nagar Katol Road
+Nagpur,Dharampeth,175,Pole 1,New Katol Naka Chowk
+Nagpur,Dharampeth,175,Pole 2,New Katol Naka Chowk
+Nagpur,Mangalwari,176,Pole 1,Anant Nagar Chowk
+Nagpur,Mangalwari,177,Pole 1,Borgaon Chowk
+Nagpur,Mangalwari,178,Pole 1,Awasthi Nagar Chowk
+Nagpur,Mangalwari,178,Pole 2,Awasthi Nagar Chowk
+Nagpur,Dharampeth,179,Pole 1,Friends colony Chowk
+Nagpur,Ashi Nagar,180,Pole 1,Kolkata railway line east area
+Nagpur,Mangalwari,181,Pole 1,Kadbi chowk
+Nagpur,Mangalwari,181,Pole 2,Kadbi chowk
+Nagpur,Ashi Nagar,182,Pole 1,kamal chowk
+Nagpur,Ashi Nagar,182,Pole 2,kamal chowk
+Nagpur,Ashi Nagar,183,Pole 1,Char Khamba Chowk
+Nagpur,Ashi Nagar,184,Pole 1,Rani Dugawati Chowk
+Nagpur,Ashi Nagar,184,Pole 2,Rani Dugawati Chowk
+Nagpur,Ashi Nagar,185,Pole 1,AwaleBabu Chowk
+Nagpur,Ashi Nagar,185,Pole 2,AwaleBabu Chowk
+Nagpur,Satranjipura,186,Pole 1,Under Mehandibagh Over Brigde
+Nagpur,Ashi Nagar,187,Pole 1,NIT Chowk Vaishali Nagar Cement Road
+Nagpur,Ashi Nagar,187,Pole 2,NIT Chowk Vaishali Nagar Cement Road
+Nagpur,Ashi Nagar,188,Pole 1,Teka Naka chowk Kamthi Raod
+Nagpur,Ashi Nagar,188,Pole 2,Teka Naka chowk Kamthi Raod
+Nagpur,Mangalwari,189,Pole 1,Motibagh Railway crossing Guard line Road
+Nagpur,Ashi Nagar,190,Pole 1,10 No. Pull Chowk Kamthi Road
+Nagpur,Ashi Nagar,190,Pole 2,10 No. Pull Chowk Kamthi Road
+Nagpur,Ashi Nagar,191,Pole 1,BuddhNagar Kalgidhar Gurudwara Turning Kamthi Road
+Nagpur,Ashi Nagar,192,Pole 1,Gamdur Bar Chowk kamthi Road
+Nagpur,Ashi Nagar,193,Pole 1,Baba Buddhaji Nagar Gate Kamthi Road
+Nagpur,Ashi Nagar,194,Pole 1,Chirag Ali Chowk New Wasti Teka
+Nagpur,Satranjipura,195,Pole 1,Mulchand  Saoji Bhojanalaya  Turning  Mehendi bagh Road
+Nagpur,Satranjipura,196,Pole 1,Chakna Chowk Mehendibagh Road
+Nagpur,Satranjipura,197,Pole 1,Naik Talao Near Tadi Shop
+Nagpur,Satranjipura,198,Pole 1,Prakash Pan Mandir Chowk Tandapeth
+Nagpur,Satranjipura,199,Pole 1,Laldarwaja Chowk Railway Gate
+Nagpur,Satranjipura,200,Pole 1,Pachpaoli Over Brige Nandgiri Road T Point
+Nagpur,Ashi Nagar,201,Pole 1,Dr. Ambedkar Garden Vaishali Nagar
+Nagpur,Ashi Nagar,202,Pole 1,Asinagar Chowk
+Nagpur,Ashi Nagar,203,Pole 1,Ashoknagar Chowk
+Nagpur,Ashi Nagar,203,Pole 2,Ashoknagar Chowk
+Nagpur,Ashi Nagar,204,Pole 1,Chambhar Nala Turning
+Nagpur,Ashi Nagar,205,Pole 1,Toward Thakkargram Road
+Nagpur,Ashi Nagar,205,Pole 1,Pachpaoli over bridge toward Barse Nagar Road 
+Nagpur,Ashi Nagar,206,Pole 1,Front side of Sindhu College
+Nagpur,Ashi Nagar,207,Pole 1,Buddha Chowk Ara Machine Road
+Nagpur,Ashi Nagar,208,Pole 1,Khasada vasti
+Nagpur,Mangalwari,209,Pole 1,Samta nagar area
+Nagpur,Mangalwari,210,Pole 1,Near Paramid city
+Nagpur,Mangalwari,211,Pole 1,Railway line on D.I. road
+Nagpur,Ashi Nagar,212,Pole 1,Indora chowk
+Nagpur,Ashi Nagar,212,Pole 2,Indora chowk
+Nagpur,Mangalwari,213,Pole 1,Jaripatka chowk
+Nagpur,Mangalwari,214,Pole 1,Barakholi Chowk
+Nagpur,Mangalwari,215,Pole 1,Bhim Chowk
+Nagpur,Mangalwari,216,Pole 1,Khobragade Chowk
+Nagpur,Mangalwari,216,Pole 2,Khobragade Chowk
+Nagpur,Mangalwari,217,Pole 1,Jaripatka Bazar
+Nagpur,Mangalwari,218,Pole 1,Itarsi Pulia
+Nagpur,Mangalwari,219,Pole 1,Patankar Chowk
+Nagpur,Ashi Nagar,220,Pole 1,KapilNagar Chowk
+Nagpur,Ashi Nagar,220,Pole 2,KapilNagar Chowk
+Nagpur,Ashi Nagar,221,Pole 1,Kamgar Nagar Chowk
+Nagpur,Ashi Nagar,222,Pole 1,Automotive Chowk
+Nagpur,Ashi Nagar,222,Pole 2,Automotive Chowk
+Nagpur,Mangalwari,223,Pole 1,Bokhara to chakki Khapa road
+Nagpur,Mangalwari,224,Pole 1,Lonara road
+Nagpur,Mangalwari,225,Pole 1,Koradi naka
+Nagpur,Mangalwari,226,Pole 1,koradi mandir T point
+Nagpur,Mangalwari,227,Pole 1,Karemore Complex Chowk
+Nagpur,Mangalwari,228,Pole 1,Mordern School near Goyal Kirana Stores
+Nagpur,Mangalwari,229,Pole 1,Arya Nagar Chowk
+Nagpur,Mangalwari,230,Pole 1,Faras gate square
+Nagpur,Mangalwari,231,Pole 1,Mankapur square
+Nagpur,Mangalwari,232,Pole 1,Mankapur Kalpana Talkies Chowk In Front of Krida Sankul
+Nagpur,Mangalwari,232,Pole 2,Mankapur Kalpana Talkies Chowk In Front of Krida Sankul
+Nagpur,Mangalwari,233,Pole 1,Zingabai Takli Zenda Chowk
+Nagpur,Mangalwari,234,Pole 1,Shrikrishna Mangal Karyalaya Godhni Road
+Nagpur,Mangalwari,235,Pole 1,Godhni Toll Naka
+Nagpur,Mangalwari,236,Pole 1,Zingabai Takli Shafi Nagar Chowk
+Nagpur,Mangalwari,237,Pole 1,Sadikabad T-Point Mankapur
+Nagpur,Mangalwari,238,Pole 1,Gorewada Chungi naka Pithesur Raod
+Nagpur,Mangalwari,239,Pole 1,Baba Farid Nagar under the over bridge Koradi Road
+Nagpur,Mangalwari,240,Pole 1,Mahatma Phule Chowk Godhani Village
+Nagpur,Mangalwari,241,Pole 1,Godhani Railway Station
+Nagpur,Lakadganj,242,Pole 1,Old  Hospital building in Queta colony
+Nagpur,Lakadganj,242,Pole 1,Old  Building  near  Ponam  Mall
+Nagpur,Lakadganj,243,Pole 1,Telephone Exchange chowk
+Nagpur,Lakadganj,243,Pole 2,Telephone Exchange chowk
+Nagpur,Lakadganj,244,Pole 1,Sarda chowk
+Nagpur,Lakadganj,244,Pole 2,Sarda chowk
+Nagpur,Lakadganj,245,Pole 1,Mahavir chowk
+Nagpur,Lakadganj,246,Pole 1,Vaishno Devi chowk
+Nagpur,Lakadganj,246,Pole 2,Vaishno Devi chowk
+Nagpur,Lakadganj,247,Pole 1,Darodkar chowk
+Nagpur,Lakadganj,248,Pole 1,Chandrashekhar Azad chowk
+Nagpur,Lakadganj,249,Pole 1,Kolba  Swami chowk
+Nagpur,Lakadganj,250,Pole 1,Ambedkar Chowk
+Nagpur,Lakadganj,251,Pole 1,Day To Day chowk
+Nagpur,Lakadganj,252,Pole 1,Prajapati chowk
+Nagpur,Lakadganj,252,Pole 2,Prajapati chowk
+Nagpur,Lakadganj,253,Pole 1,Sukhsagar Apartment
+Nagpur,Lakadganj,254,Pole 1,Power House Chowk
+Nagpur,Lakadganj,254,Pole 2,Power House Chowk
+Nagpur,Lakadganj,255,Pole 1,Sudarshan Chowk
+Nagpur,Lakadganj,255,Pole 2,Sudarshan Chowk
+Nagpur,Lakadganj,256,Pole 1,Sunil Hotel Chowk
+Nagpur,Lakadganj,257,Pole 1,Juna Motor Stand Chowk
+Nagpur,Lakadganj,258,Pole 1,Balaji Mandir Chowk
+Nagpur,Lakadganj,259,Pole 1,Masurkar Chowk
+Nagpur,Lakadganj,259,Pole 2,Masurkar Chowk
+Nagpur,Gandhibagh,260,Pole 1,Vande Materam Chowk
+Nagpur,Satranjipura,261,Pole 1,Nehru Putla Chowk
+Nagpur,Satranjipura,263,Pole 1,Premnagar Zenda Chowk
+Nagpur,Satranjipura,264,Pole 1,Shantinagar Ghat Chowk
+Nagpur,Satranjipura,265,Pole 1,Ratan Tower
+Nagpur,Lakadganj,266,Pole 1,Gangabai Ghat Chowk
+Nagpur,Lakadganj,266,Pole 2,Gangabai Ghat Chowk
+Nagpur,Lakadganj,267,Pole 1,Hiwri Nagar Chowk
+Nagpur,Lakadganj,267,Pole 2,Hiwri Nagar Chowk
+Nagpur,Satranjipura,268,Pole 1,Marwadi Chowk
+Nagpur,Satranjipura,269,Pole 1,Zade Chowk
+Nagpur,Gandhibagh,270,Pole 1,Sevasadan chowk
+Nagpur,Gandhibagh,270,Pole 2,Sevasadan chowk
+Nagpur,Gandhibagh,271,Pole 1,Agrasen chowk
+Nagpur,Gandhibagh,271,Pole 2,Agrasen chowk
+Nagpur,Gandhibagh,272,Pole 1,Sona Restorent chowk
+Nagpur,Satranjipura,273,Pole 1,Golibar chowk
+Nagpur,Dhantoli,274,Pole 1,Gitanjali chowk
+Nagpur,Dhantoli,274,Pole 2,Gitanjali chowk
+Nagpur,Gandhibagh,275,Pole 1,Meyo Chowk
+Nagpur,Gandhibagh,275,Pole 2,Meyo Chowk
+Nagpur,Dhantoli,276,Pole 1,Dosar Bhavan Chowk
+Nagpur,Gandhibagh,277,Pole 1,Tanga Stand Chowk
+Nagpur,Gandhibagh,278,Pole 1,Sahid Chowk
+Nagpur,Gandhibagh,279,Pole 1,Nikalas Mandir Chowk
+Nagpur,Satranjipura ,280,Pole 1,Bharat Mata Chowk
+Nagpur,Gandhibagh,281,Pole 1,Tinal Chowk
+Nagpur,Gandhibagh,282,Pole 1,Ganjakhet Chowk
+Nagpur,Gandhibagh,283,Pole 1,Timki Tin Khamba
+Nagpur,Gandhibagh,284,Pole 1,Mominpura Chowk
+Nagpur,Gandhibagh,285,Pole 1,Bhankheda Ambedkar Putla
+Nagpur,Gandhibagh,286,Pole 1,Gurd Line Chowk
+Nagpur,Gandhibagh,287,Pole 1,Bhagwaghar Chowk
+Nagpur,Gandhibagh,287,Pole 2,Bhagwaghar Chowk
+Nagpur,Gandhibagh,288,Pole 1,Lal Imli Chowk
+Nagpur,Gandhibagh,289,Pole 1,Sut Market
+Nagpur,Gandhibagh,290,Pole 1,Nanga putla Chowk
+Nagpur,Gandhibagh,291,Pole 1,City Post Office Itwari
+Nagpur,Satranjipura,292,Pole 1,Memon Jamat Bangali panja
+Nagpur,Satranjipura,293,Pole 1,Timki Dadra Pul
+Nagpur,Satranjipura,294,Pole 1,Resham oli Bohara Masjid
+Nagpur,Gandhibagh,295,Pole 1,C.A. Road Gandhi square
+Nagpur,Gandhibagh,295,Pole 2,C.A. Road Gandhi square
+Nagpur,Gandhibagh,296,Pole 1,Badkas square
+Nagpur,Gandhibagh,297,Pole 1,Chitanawis park square
+Nagpur,Gandhibagh,298,Pole 1,Aaychit Mandir bus stop
+Nagpur,Gandhibagh,298,Pole 2,Aaychit Mandir bus stop
+Nagpur,Gandhibagh,299,Pole 1,Zenda chowk
+Nagpur,Gandhibagh,300,Pole 1,Gandhi Gate
+Nagpur,Hanuman nagar,301,Pole 1,Ram cooler square
+Nagpur,Gandhibagh,302,Pole 1,C.P. & Berar square
+Nagpur,Gandhibagh,302,Pole 2,C.P. & Berar square
+Nagpur,Hanuman nagar,303,Pole 1,Apsara square
+Nagpur,Hanuman nagar,303,Pole 2,Apsara square
+Nagpur,Nehru Nagar,304,Pole 1,Bhola Ganesh chowk
+Nagpur,Nehru Nagar,304,Pole 2,Bhola Ganesh chowk
+Nagpur,Nehru Nagar,305,Pole 1,Gajanan square
+Nagpur,Nehru Nagar,306,Pole 1,Tiranga square
+Nagpur,Nehru Nagar,307,Pole 1,Nandanwan cement road
+Nagpur,Nehru Nagar,308,Pole 1,Old shukrawari Gandhi statue
+Nagpur,Gandhibagh,309,Pole 1,Mahal square
+Nagpur,Gandhibagh,309,Pole 2,Mahal square
+Nagpur,Gandhibagh,310,Pole 1,Kalyaneshwar Mandir
+Nagpur,Gandhibagh,311,Pole 1,Matru seva sangha hospital
+Nagpur,Nehru Nagar,312,Pole 1,S.D. Hospital square
+Nagpur,Nehru Nagar,313,Pole 1,Mahawir Gardan
+Nagpur,Gandhibagh,314,Pole 1,Bhosla wed school
+Nagpur,Gandhibagh,315,Pole 1,Manepura square
+Nagpur,Nehru Nagar,316,Pole 1,Jagnade square
+Nagpur,Nehru Nagar,316,Pole 2,Jagnade Sqaure
+Nagpur,Nehru Nagar,317,Pole 1,Mahila mahavidyalaya square
+Nagpur,Gandhibagh,318,Pole 1,Chitrs talkies gate
+Nagpur,Dhantoli,319,Pole 1,Empress Mill T-point
+Nagpur,Dhantoli,320,Pole 1,Backside of ST stand Main Gate ST Bus Stand
+Nagpur,Dhantoli,321,Pole 1,Mokshdham Ghat
+Nagpur,Dhantoli,322,Pole 1,Underbridge near Vijay Talkies
+Nagpur,Dhantoli,323,Pole 1,Cotton Market chowk
+Nagpur,Dhantoli,323,Pole 2,Cotton Market chowk
+Nagpur,Dhantoli,324,Pole 1,Agyaram Devi chowk
+Nagpur,Dhantoli,325,Pole 1,Jadhav chowk
+Nagpur,Dhantoli,325,Pole 2,Jadhav chowk
+Nagpur,Dhantoli,326,Pole 1,North Side of Baidhnath Chowk
+Nagpur,Dhantoli,326,Pole 2,North Side of Baidhnath Chowk
+Nagpur,Dhantoli,327,Pole 1,North Side of Cotton Market Chowk
+Nagpur,Dhantoli,328,Pole 1,North Side of Gandhisagar
+Nagpur,Dhantoli,329,Pole 1,South Side of Gandhisagar
+Nagpur,Dhantoli,330,Pole 1,West Side of  Gandhisagar
+Nagpur,Gandhibagh,331,Pole 1,East Side of Gandhisagar
+Nagpur,Dhantoli,332,Pole 1,Railway Station East Gate
+Nagpur,Dhantoli,333,Pole 1,Santra Market
+Nagpur,Lakadganj,334,Pole 1,Kapsi chowk
+Nagpur,Ashi Nagar,335,Pole 1,Chikhali chowk
+Nagpur,Lakadganj,336,Pole 1,Kapsi Over Brig Kapsi Under Bridge
+Nagpur,Lakadganj,337,Pole 1,Kapsi Under Bridge
+Nagpur,Lakadganj,337,Pole 2,Kapsi Under Bridge
+Nagpur,Lakadganj,338,Pole 1,Outer Ring road Tarodi over bridge
+Nagpur,Lakadganj,339,Pole 1,New Pardi Naka Bhandara road
+Nagpur,Lakadganj,340,Pole 1,Pardi Bazar Hanuman Temple
+Nagpur,Lakadganj,340,Pole 2,Pardi Bazar Hanuman Temple
+Nagpur,Lakadganj,341,Pole 1,Bhandewadi Railway Station
+Nagpur,Lakadganj,342,Pole 1,Punapur Road Ghatate Nagar chowk
+Nagpur,Lakadganj,343,Pole 1,Subhan Nagar near Hanuman Temple
+Nagpur,Lakadganj,344,Pole 1,Sharda chowk Netaji Nagar
+Nagpur,Lakadganj,345,Pole 1,Bharatwada Road Near Nagpure School chowk
+Nagpur,Lakadganj,346,Pole 1,Bharatwada Y Point
+Nagpur,Lakadganj,347,Pole 1,Bharatwada Chowk
+Nagpur,Lakadganj,348,Pole 1,Old Pardi Naka Chowk
+Nagpur,Lakadganj,348,Pole 2,Old Pardi Naka Chowk
+Nagpur,Lakadganj,349,Pole 1,Bharat Nagar chowk
+Nagpur,Lakadganj,350,Pole 1,Kalamna Market chowk
+Nagpur,Ashi Nagar,351,Pole 1,Kalamna Railway Gate
+Nagpur,Lakadganj,352,Pole 1,Minimata Nagar chowk
+Nagpur,Lakadganj,353,Pole 1,Depty Signal Relway Gate
+Nagpur,Lakadganj,354,Pole 1,Depty Signal Udta hanuman Chowk
+Nagpur,Ashi Nagar,355,Pole 1,Old Kamptee Road near Police chowky
+Nagpur,Ashi Nagar,356,Pole 1,Old Kamptee Road near Reliance Petrol pump
+Nagpur,Lakadganj,357,Pole 1,Dhargao Chowk
+Nagpur,Satranjipura,358,Pole 1,Vitabhatti chowk
+Nagpur,Satranjipura,358,Pole 2,Vitabhatti chowk
+Nagpur,Satranjipura,359,Pole 1,Kanji house chowk
+Nagpur,Satranjipura,359,Pole 2,Kanji house chowk
+Nagpur,Ashi Nagar,360,Pole 1,Yashodhara chowk
+Nagpur,Ashi Nagar,361,Pole 1,Vinoba Bhawe Nagar
+Nagpur,Satranjipura,362,Pole 1,Namdev Nagar
+Nagpur,Ashi Nagar,363,Pole 1,Shiv Arket Bhilgao
+Nagpur,Ashi Nagar,364,Pole 1,Nag Lock
+Nagpur,Ashi Nagar,365,Pole 1,Tulsa lawn
+Nagpur,Ashi Nagar,366,Pole 1,Shivam Aparment
+Nagpur,Ashi Nagar,367,Pole 1,Sajay Gandhi Nagar
+Nagpur,Satranjipura,368,Pole 1,Panchwati Nagar
+Nagpur,Satranjipura,369,Pole 1,Bohara Colony
+Nagpur,Satranjipura,370,Pole 1,Jamdar Wadi
+Nagpur,Satranjipura,371,Pole 1,Shahu Mohalla
+Nagpur,Ashi Nagar,372,Pole 1,Wandevi Nagar Chowk
+Nagpur,Ashi Nagar,373,Pole 1,Pili Nadi Chowk
+Nagpur,Ashi Nagar,374,Pole 1,Mehbubpura
+Nagpur,Ashi Nagar,375,Pole 1,Raja Chowk
+Nagpur,Ashi Nagar,376,Pole 1,Transport Plaza
+Nagpur,Satranjipura,377,Pole 1,Bara Nal Chowk
+Nagpur,Satranjipura,378,Pole 1,Gosavi Akhada
+Nagpur,Satranjipura,378,Pole 2,Gosavi Akhada
+Nagpur,Satranjipura,379,Pole 1,Anand Nagar
+Nagpur,Satranjipura,380,Pole 1,Jay Bhole Nagar
+Nagpur,Ashi Nagar,381,Pole 1,Jay Bhim Chowk
+Nagpur,Hanuman Nagar,382,Pole 1,Chintamani Nagar
+Nagpur,Hanuman Nagar,383,Pole 1,Abhay nagar Backside of medical college
+Nagpur,Hanuman Nagar,384,Pole 1,Infront of PS
+Nagpur,Dhantoli,385,Pole 1,Suyog Nagar Chowk
+Nagpur,Hanuman Nagar,386,Pole 1,Omkar Nagar Chowk
+Nagpur,Hanuman Nagar,387,Pole 1,Rameshwari Chowk
+Nagpur,Hanuman Nagar,388,Pole 1,Shatabadi Chowk
+Nagpur,Dhantoli,389,Pole 1,Medical Chowk
+Nagpur,Dhantoli,389,Pole 2,Medical Chowk
+Nagpur,Dhantoli,389,Pole 3,Medical Chowk
+Nagpur,Hanuman Nagar,390,Pole 1,Trisharan Chowk
+Nagpur,Hanuman Nagar,391,Pole 1,Hanuman Nagar
+Nagpur,Hanuman Nagar,392,Pole 1,Narendra Nagar
+Nagpur,Hanuman Nagar,392,Pole 2,Narendra Nagar
+Nagpur,Dhantoli,393,Pole 1,Netaji market Mehadiya Chowk
+Nagpur,Laxmi Nagar,394,Pole 1,Shamtarka apt. javal
+Nagpur,Dhantoli,395,Pole 1,Mehadiya Chowk to Panchshil Chowk
+Nagpur,Dhantoli,396,Pole 1,Near Mount Carmal School 
+Nagpur,Dhantoli,396,Pole 1,Ajni Chowk
+Nagpur,Dhantoli,397,Pole 1,Anand talkies Chowk
+Nagpur,Dhantoli,398,Pole 1,Yashwant Stedium
+Nagpur,Dhantoli,398,Pole 2,Yashwant Stedium bus stop
+Nagpur,Dhantoli,399,Pole 1,Dhantoli Garden Area
+Nagpur,Laxmi Nagar,400,Pole 1,Mata Kacheri Chowk
+Nagpur,Laxmi Nagar,400,Pole 2,Mata Kacheri Chowk
+Nagpur,Laxmi Nagar,401,Pole 1,Devnagar Chowk
+Nagpur,Dhantoli,402,Pole 1,Congress nagar T-Point Chowk
+Nagpur,Dhantoli,403,Pole 1,Gajanan nagar Chowk
+Nagpur,Laxmi Nagar,404,Pole 1,Rahate Colony Chowk
+Nagpur,Dhantoli,405,Pole 1,Ajni Railway Station
+Nagpur,Dhantoli,406,Pole 1,Ajit Bekari
+Nagpur,Dhantoli,407,Pole 1,Chatrapati Chowk
+Nagpur,Dhantoli,407,Pole 2,Chatrapati Chowk
+Nagpur,Dhantoli,408,Pole 1,Sureteck Hospital Area
+Nagpur,Dhantoli,409,Pole 1,Jail Road
+Nagpur,Dhantoli,410,Pole 1,FCI Godawn
+Nagpur,Laxmi Nagar,411,Pole 1,Surendra Nagar Garden
+Nagpur,Dhantoli,412,Pole 1,Ajni Chowk Near Yashwant Chavhan Putala
+Nagpur,Dhantoli,413,Pole 1,Dhantoli Police Station Chowk
+Nagpur,Dhantoli,414,Pole 1,Sardar Patel Chowk
+Nagpur,Dhantoli,414,Pole 2,Sardar Patel Chowk
+Nagpur,Hanuman Nagar,415,Pole 1,Ashok Chowk
+Nagpur,Hanuman Nagar,416,Pole 1,Ashok Chowk
+Nagpur,Hanuman Nagar,417,Pole 1,Untakhana Chowk
+Nagpur,Hanuman Nagar,417,Pole 2,Untakhana Chowk
+Nagpur,Dhantoli,418,Pole 1,Jatatrodi Chowk
+Nagpur,Hanuman Nagar,419,Pole 1,Ajni Over Bridge to Medical Chowk
+Nagpur,Hanuman Nagar,420,Pole 1,Chandan Nagar Near Ramabai Garden
+Nagpur,Dhantoli,421,Pole 1,Rambagh Colony
+Nagpur,Nehru Nagar,422,Pole 1,Shyambagh area Sindhiban  Bada Tajbagh Chhota Tajbagh
+Nagpur,Hanuman Nagar,423,Pole 1,Somwari Qrt. Old Qrt.of Vima Hospital.
+Nagpur,Hanuman Nagar,424,Pole 1,Sakkardara Chowk
+Nagpur,Hanuman Nagar,424,Pole 2,Sakkardara Chowk
+Nagpur,Nehru Nagar,425,Pole 1,Sakkaradara fly over
+Nagpur,Nehru Nagar,426,Pole 1,Bhande Plot Chowk
+Nagpur,Nehru Nagar,426,Pole 2,Bhande Plot Chowk
+Nagpur,Hanuman Nagar,427,Pole 1,Awari Chowk
+Nagpur,Hanuman Nagar,427,Pole 2,Awari Chowk
+Nagpur,Hanuman Nagar,428,Pole 1,Tukdoji Chowk
+Nagpur,Hanuman Nagar,428,Pole 2,Tukdoji Chowk
+Nagpur,Hanuman Nagar,429,Pole 1,Aurvedik Hospital Budhawari Bajar
+Nagpur,Nehru Nagar,430,Pole 1,Chota Tajbagh Chowk
+Nagpur,Nehru Nagar,431,Pole 1,Sakkardara Lack Garden
+Nagpur,Nehru Nagar,432,Pole 1,Dattatray Nagar Garden Area
+Nagpur,Nehru Nagar,433,Pole 1,Hussen Baba Dargah
+Nagpur,Hanuman Nagar,434,Pole 1,Gajanan Highschool T-Point
+Nagpur,Hanuman Nagar,434,Pole 2,Gajanan Highschool T-Point
+Nagpur,Nehru Nagar,435,Pole 1,Chamat Chakki Chowk
+Nagpur,Nehru Nagar,435,Pole 2,Chamat Chakki Chowk
+Nagpur,Nehru Nagar,436,Pole 1,Buland Get Motha Tajbagh
+Nagpur,Nehru Nagar,437,Pole 1,Shitala Mata Mandir Chowk
+Nagpur,Nehru Nagar,437,Pole 2,Shitala Mata Mandir Chowk
+Nagpur,Hanuman Nagar,438,Pole 1,Tukdoji Chowk to P.F. Office Road
+Nagpur,Nehru Nagar,439,Pole 1,Buggewar Ashirwad nagar chowk
+Nagpur,Hanuman Nagar,440,Pole 1,Reshimbagh N.I.T. Garden Area
+Nagpur,Nehru Nagar,441,Pole 1,Shahensha Chowk
+Nagpur,Hanuman Nagar,442,Pole 1,Budhwari Bajar Main Road
+Nagpur,Hanuman Nagar,442,Pole 2,Budhwari Bajar Main Road
+Nagpur,Hanuman Nagar,443,Pole 1,Tupkar Chowk
+Nagpur,Hanuman Nagar,444,Pole 1,Old  Ayodhya  Nagar  Bus  Stop  to  Baseshwar Putala Chowk
+Nagpur,Nehru Nagar,445,Pole 1,Mahakalkar Building to old Ayodhya Nagar Bus Stop
+Nagpur,Nehru Nagar,446,Pole 1,Boolywood Center Point Hotel
+Nagpur,Hanuman Nagar,447,Pole 1,Behine Shri. Binzani College gate Budhwar Bajar
+Nagpur,Nehru Nagar,448,Pole 1,Om Nagar Area
+Nagpur,Nehru Nagar,449,Pole 1,Darshan colony old building Shrikrishna nagar old building
+Nagpur,Lakadganj,450,Pole 1,Sangharshnagar Deshpande layout
+Nagpur,Lakadganj,451,Pole 1,Bhutbangala empty building
+Nagpur,Lakadganj,452,Pole 1,Sangharsh Nagar Chowk
+Nagpur,Nehru Nagar,453,Pole 1,K.D.K. college Chowk
+Nagpur,Lakadganj,454,Pole 1,Opposite Area INOX Talkeis
+Nagpur,Nehru Nagar,455,Pole 1,Nandanvan Main Road
+Nagpur,Nehru Nagar,455,Pole 2,Nandanvan Main Road
+Nagpur,Nehru Nagar,456,Pole 1,Opposite Area of Motha Tajbagh  same As buland gate
+Nagpur,Lakadganj,457,Pole 1,Wathoda Chowk
+Nagpur,Nehru Nagar,458,Pole 1,Opposite Area of Hasanbagh Police Chowky
+Nagpur,Nehru Nagar,458,Pole 2,Opposite Area of Hasanbagh Police Chowky
+Nagpur,Nehru Nagar,459,Pole 1,Hasanbagh Chowk
+Nagpur,Nehru Nagar,459,Pole 2,Hasanbagh Chowk
+Nagpur,Nehru Nagar,460,Pole 1,Aourangjeb Chowk Hasanbagh
+Nagpur,Nehru Nagar,461,Pole 1,Kharbi Chowk
+Nagpur,Nehru Nagar,461,Pole 2,Kharbi Chowk
+Nagpur,Lakadganj,462,Pole 1,Jaybhim Chowk Hiwari Nagar
+Nagpur,Nehru Nagar,463,Pole 1,Nadanvan Canal Road
+Nagpur,Nehru Nagar,464,Pole 1,Gurudev nagar
+Nagpur,Nehru Nagar,464,Pole 2,Gurudev nagar
+Nagpur,Nehru Nagar,465,Pole 1,Ramana maroti Chowk Nagpur
+Nagpur,Nehru Nagar,466,Pole 1,Opposite area of Vyankatesh Nagar Gate
+Nagpur,Nehru Nagar,466,Pole 2,Opposite area of Vyankatesh Nagar Gate
+Nagpur,Nehru Nagar,467,Pole 1,Shitala Mata Chowk
+Nagpur,Nehru Nagar,468,Pole 1,Telephone Nagar Chowk Umred Road
+Nagpur,Nehru Nagar,469,Pole 1,Backside of Sutgirani
+Nagpur,Nehru Nagar,470,Pole 1,Narsala Kannad
+Nagpur,Hanuman Nagar,471,Pole 1,Vihirgaon Bhogali Gotal
+Nagpur,Hanuman Nagar,472,Pole 1,Besa Beltarodi road
+Nagpur,Hanuman Nagar,473,Pole 1,Manewada Cement Road Jawahar Nagar Chowk
+Nagpur,Hanuman Nagar,474,Pole 1,Manewada  Cement  Road  Vairagade Hospital Chowk
+Nagpur,Hanuman Nagar,475,Pole 1,Manewada Chowk
+Nagpur,Hanuman Nagar,475,Pole 2,Manewada Chowk
+Nagpur,Hanuman Nagar,476,Pole 1,Besa Chowk
+Nagpur,Hanuman Nagar,477,Pole 1,Beltarodi T-Point Chowk
+Nagpur,Hanuman Nagar,478,Pole 1,Uday Nagar Chowk
+Nagpur,Hanuman Nagar,478,Pole 2,Uday Nagar Chowk
+Nagpur,Nehru Nagar,479,Pole 1,Mahalgi Nagar Chowk
+Nagpur,Nehru Nagar,479,Pole 2,Mahalgi Nagar Chowk
+Nagpur,Hanuman Nagar,480,Pole 1,Rajapeth Hudkeshwar Road
+Nagpur,Hanuman Nagar,481,Pole 1,Pipala Chowk Hudkeshwar Road
+Nagpur,Nehru Nagar,482,Pole 1,Gajanan Mandir Chowk Mahalgi Nagar
+Nagpur,Nehru Nagar,482,Pole 2,Gajanan Mandir Chowk Mahalgi Nagar
+Nagpur,Nehru Nagar,483,Pole 1,Dighori Chowk
+Nagpur,Nehru Nagar,483,Pole 2,Dighori Chowk
+Nagpur,Nehru Nagar,484,Pole 1,Dighori Naka Chowky
+Nagpur,Nehru Nagar,485,Pole 1,Gajanan Highschool Chowk Juna Subhedar Lay- Out
+Nagpur,Hanuman Nagar,486,Pole 1,Sharda Chowk
+Nagpur,Hanuman Nagar,487,Pole 1,Sai Mandir Ayodhya Nagar
+Nagpur,Hanuman Nagar,488,Pole 1,Swami Samartha mandir Besa
+Nagpur,Hanuman Nagar,489,Pole 1,Shahu Nagar T-Point Manewada Besa Road
+Nagpur,Nehru Nagar,490,Pole 1,Dighori Umred Road
+Nagpur,Nehru Nagar,491,Pole 1,Mahalgi Nagar to New Narsala Road
+Nagpur,Hanuman Nagar,492,Pole 1,Besa Chowk to Pipalagoan Road
+Nagpur,Hanuman Nagar,493,Pole 1,Beltarodi to Shankarpur Goan Road
+Nagpur,Hanuman Nagar,494,Pole 1,Wanjari Nagar T Point
+Nagpur,Hanuman Nagar,495,Pole 1,Vima Hospital Square
+Nagpur,Hanuman Nagar,495,Pole 2,Vima Hospital Square
+Nagpur,Hanuman Nagar,496,Pole 1,Chintamani Nagar Part-2
+Nagpur,Hanuman Nagar,497,Pole 1,Ramteke Nagar
+Nagpur,Hanuman Nagar,498,Pole 1,Shiv Shakti Nagar
+Nagpur,Hanuman Nagar,499,Pole 1,Venu Corner
+Nagpur,Hanuman Nagar,500,Pole 1,Siddheshwar Mangal Karyalay Square
+Nagpur,Hanuman Nagar,501,Pole 1,Krida Chowk
+Nagpur,Hanuman Nagar,502,Pole 1,TB Ward
+Nagpur,Hanuman Nagar,503,Pole 1,Kamble Chowk
+Nagpur,Dhantoli,504,Pole 1,Medical College Main Gate
+Nagpur,Hanuman Nagar,505,Pole 1,Manvata High School
+Nagpur,Hanuman Nagar,506,Pole 1,Jadu Mahal Chowk
+Nagpur,Dhantoli,507,Pole 1,Tiny Tots High School
+Nagpur,Hanuman Nagar,508,Pole 1,Rajkamal Chowk
+Nagpur,Hanuman Nagar,509,Pole 1,Ulhas Nagar Garden
+Nagpur,Dhantoli,510,Pole 1,Barkute Layout
+Nagpur,Dhantoli,511,Pole 1,Narendra Nagar Garden
+Nagpur,Dhantoli,512,Pole 1,Sai Krupa Society
+Nagpur,Dhantoli,513,Pole 1,Suyog Nagar Garden
+Nagpur,Hanuman Nagar,514,Pole 1,Bhagwan Nagar Garden
+Nagpur,Dharampeth,515,Pole 1,Futala Turning
+Nagpur,Dharampeth,516,Pole 1,Futala Lake Centre
+Nagpur,Dharampeth,516,Pole 2,Futala Lake Centre
+Nagpur,Laxmi Nagar,517,Pole 1,Sir Vishwashourya Sqr
+Nagpur,Laxmi Nagar,517,Pole 2,Sir Vishwashourya Sqr
+Nagpur,Dharampeth,518,Pole 1,Gokulpeth Market Near Police Chowki
+Nagpur,Laxmi Nagar,519,Pole 1,Tidke Junction
+Nagpur,Laxmi Nagar,520,Pole 1,VNIT Yashwant Nagar Sqr
+Nagpur,Laxmi Nagar,520,Pole 2,VNIT Yashwant Nagar Sqr
+Nagpur,Laxmi Nagar,521,Pole 1,Ambazari T-Point Near Ambedkar Bhavan
+Nagpur,Laxmi Nagar,522,Pole 1,VNIT Swimming pool
+Nagpur,Dhantoli,523,Pole 1,Kruplani Chowk
+Nagpur,Dhantoli,524,Pole 1,Sawarkar Garden
+Nagpur,Dhantoli,525,Pole 1,Sai Mandir Back Side
+Nagpur,Dhantoli,526,Pole 1,Hindustan Colony
+Nagpur,Dhantoli,526,Pole 2,Hindustan Colony
+Nagpur,Dhantoli,527,Pole 1,Sai Mandir Front Side
+Nagpur,Dhantoli,528,Pole 1,New Dhantoli-FCI
+Nagpur,Dhantoli,529,Pole 1,Front Side of ST Stand Main Gate ST Bus Stand
+Nagpur,Dhantoli,530,Pole 1,Dalda Chowk Dalda Company
+Nagpur,Dhantoli,531,Pole 1,Main Gate ST Bus Stand
+Nagpur,Dhantoli,531,Pole 2,Main Gate ST Bus Stand
+Nagpur,Dhantoli,531,Pole 3,Main Gate ST Bus Stand
+Nagpur,Hanuman Nagar,532,Pole 1,Godrej Anandwan Turning
+Nagpur,Dhantoli,533,Pole 1,Soukat Ali Chowk Haj House
+Nagpur,Dhantoli,534,Pole 1,Ganesh Chowk
+Nagpur,Dhantoli,535,Pole 1,Modern Mill
+Nagpur,Gandhibagh,536,Pole 1,Moulana Malik Chowk
+Nagpur,Hanuman Nagar,537,Pole 1,Kasibhai-Ganeshpeth
+Nagpur,Dharampeth,538,Pole 1,Rural Entry T-Point
+Nagpur,Nehru Nagar,539,Pole 1,Mayur Mangal Karyalay Chowk
+Nagpur,Nehru Nagar,540,Pole 1,Mahavir Udyan Back Side
+Nagpur,Hanuman Nagar,541,Pole 1,Keshav Dwar
+Nagpur,Mangalwari,542,Pole 1,Ashirwad Nagar
+Nagpur,Mangalwari,543,Pole 1,Bandhu Nagar Chowk
+Nagpur,Mangalwari,544,Pole 1,Gaytri Nagar
+Nagpur,Mangalwari,545,Pole 1,Mahajan Complex
+Nagpur,Mangalwari,546,Pole 1,Passport Office Mankapur
+Nagpur,Mangalwari,547,Pole 1,Shyam Lawn Chowk
+Nagpur,Mangalwari,548,Pole 1,Utthan Nagar Y-Point
+Nagpur,Mangalwari,549,Pole 1,Sharda Chowk Godhni
+Nagpur,Mangalwari,550,Pole 1,Padmavati Nagar Chowk
+Nagpur,Mangalwari,551,Pole 1,Gorewada new
+Nagpur,Mangalwari,552,Pole 1,Godhani exit
+Nagpur,Ashi Nagar,553,Pole 1,Behind Kamal Talkies
+Nagpur,Satranjipura,554,Pole 1,Panchpaoli Garden First Fatak
+Nagpur,Ashi Nagar,555,Pole 1,Siddharth Nagar Buddha Park
+Nagpur,Ashi Nagar,556,Pole 1,Siddharth Nagar Chowk Road Near By Chaman Giri Baba Mandir
+Nagpur,Ashi Nagar,557,Pole 1,Barse Ghat
+Nagpur,Ashi Nagar,558,Pole 1,Saithan Chowk
+Nagpur,Laxmi Nagar,559,Pole 1,IT Park
+Nagpur,Laxmi Nagar,560,Pole 1,Mahatma Jyotibha Phule Krida Sankul
+Nagpur,Hanuman Nagar,561,Pole 1,Baba Tajbagh Samos Ground Back Side
+Nagpur,Nehru Nagar,562,Pole 1,Sindhiban Area
+Nagpur,Nehru Nagar,563,Pole 1,Bada Tajbagh Y-Point
+Nagpur,Nehru Nagar,564,Pole 1,Shyambagh Area
+Nagpur,Nehru Nagar,565,Pole 1,PPF Officer Quarter
+Nagpur,Dhantoli,566,Pole 1,Lokmat Square
+Nagpur,Dhantoli,566,Pole 2,Lokmat Square
+Nagpur,Dharampeth,567,Pole 1,Waddhamna Inside Godown Area
+Nagpur,Dharampeth,568,Pole 1,Navnit Nagar Bus Stop
+Nagpur,Dharampeth,569,Pole 1,Waddhamna Godown Exit Point
+Nagpur,Dharampeth,570,Pole 1,Defence Sonegoan Nipponi
+Nagpur,Hanuman Nagar,571,Pole 1,Dr. Babasaheb Ambedkar Jr. College
+Nagpur,Dhantoli,572,Pole 1,Rajabaksh Hanuman Temple
+Nagpur,Dhantoli,573,Pole 1,TB Ward PWD Office
+Nagpur,Hanuman Nagar,574,Pole 1,Shiv Mandir
+Nagpur,Dhantoli,575,Pole 1,TB Ward Area
+Nagpur,Dhantoli,576,Pole 1,Imamwada Square
+Nagpur,Laxmi Nagar,577,Pole 1,Sut Girni
+Nagpur,Laxmi Nagar,578,Pole 1,Dental College Nagal Wadi
+Nagpur,Laxmi Nagar,579,Pole 1,Ashtvinayak Impire
+Nagpur,Laxmi Nagar,580,Pole 1,Nildho Area
+Nagpur,Laxmi Nagar,581,Pole 1,Rajiv Nagar Police Chowki Zenda Chowk
+Nagpur,Laxmi Nagar,582,Pole 1,Digdho
+Nagpur,Laxmi Nagar,583,Pole 1,Maruti Agro
+Nagpur,Laxmi Nagar,584,Pole 1,Rakshak Nagar Gedam Layout Wanadongri
+Nagpur,Laxmi Nagar,585,Pole 1,Madhav Nagari
+Nagpur,Laxmi Nagar,586,Pole 1,Ekatmata Nagar
+Nagpur,Laxmi Nagar,587,Pole 1,Jaytala Area
+Nagpur,Laxmi Nagar,588,Pole 1,Esasani Shanti Nagar
+Nagpur,Dharampeth,589,Pole 1,Bajaj Steel T-Point Vimal Point
+Nagpur,Dharampeth,590,Pole 1,Perfect Former C20 10
+Nagpur,Dharampeth,591,Pole 1,Gandhi Nissan Service T-Point
+Nagpur,Laxmi Nagar,592,Pole 1,PIX Company
+Nagpur,Mangalwari,593,Pole 1,Koradi Mandir Maha Dwar
+Nagpur,Mangalwari,594,Pole 1,Koradi Lake Both sode of Highway
+Nagpur,Mangalwari,594,Pole 2,Koradi Lake Both sode of Highway
+Nagpur,Mangalwari,595,Pole 1,KTPS Colony Gate No.1
+Nagpur,Mangalwari,596,Pole 1,KTPS Colony Gate No.2
+Nagpur,Mangalwari,597,Pole 1,Karemore Complex Sq. To Mahadula Tpoint Left side service road 1
+Nagpur,Mangalwari,598,Pole 1,Karemore Complex Sq. To Mahadula Tpoint Left side service road 2
+Nagpur,Mangalwari,599,Pole 1,Karemore Complex Sq. To Mahadula Tpoint Left side service road 3
+Nagpur,Mangalwari,600,Pole 1,Srivas Nagar T-Point Devi Mandir
+Nagpur,Nehru Nagar,601,Pole 1,Techpost Tower City
+Nagpur,Nehru Nagar,602,Pole 1,Processes Sabhagruh
+Nagpur,Nehru Nagar,603,Pole 1,Shiv Shakti Nagar Chowk
+Nagpur,Nehru Nagar,604,Pole 1,kharbi chowki T point
+Nagpur,Lakadganj,605,Pole 1,Dipti Signal Railway Crossing Small Factory Area
+Nagpur,Lakadganj,606,Pole 1,Sambhavnath Jain Mandir Wardhman Nagar
+Nagpur,Lakadganj,607,Pole 1,Shastri Nagar Chowk
+Nagpur,Lakadganj,608,Pole 1,Kumbhar Toli Chowk
+Nagpur,Lakadganj,609,Pole 1,Danaganj Chowk T-Point
+Nagpur,Ashi Nagar,610,Pole 1,Tipu Sultan Chowk
+Nagpur,Dhantoli,611,Pole 1,UCO Bank
+Nagpur,Satranjipura,612,Pole 1,Universal Chowk
+Nagpur,Satranjipura,613,Pole 1,RamSumer Baba Nagar
+Nagpur,Satranjipura,614,Pole 1,Premnagar Shaktidham Ram Mandir
+Nagpur,Satranjipura,615,Pole 1,Lalganj Sweeper Colony
+Nagpur,Ashi Nagar,616,Pole 1,Bus Stand Chowk
+Nagpur,Ashi Nagar,616,Pole 2,Bus Stand Chowk
+Nagpur,Ashi Nagar,617,Pole 1,Chawdi Chowk
+Nagpur,Ashi Nagar,618,Pole 1,Madan Chowk
+Nagpur,Ashi Nagar,619,Pole 1,Kamsari Bazar Highway T-Point
+Nagpur,Ashi Nagar,620,Pole 1,Bhaji Mandi
+Nagpur,Ashi Nagar,621,Pole 1,Futana Oli Chowk
+Nagpur,Ashi Nagar,622,Pole 1,Gol Bazar Parumal Chowk
+Nagpur,Ashi Nagar,623,Pole 1,Warispura
+Nagpur,Ashi Nagar,624,Pole 1,Pili Haveli
+Nagpur,Ashi Nagar,625,Pole 1,Garud Chowk
+Nagpur,Ashi Nagar,626,Pole 1,Shukrawari Bazar
+Nagpur,Ashi Nagar,627,Pole 1,Goyal Chowk Talkies shukrawari bazar
+Nagpur,Ashi Nagar,628,Pole 1,Chowadhary Hospital T-Point
+Nagpur,Ashi Nagar,629,Pole 1,Ram Mandir Chowk
+Nagpur,Ashi Nagar,630,Pole 1,Borkar Chowk
+Nagpur,Ashi Nagar,631,Pole 1,Durga Chowk
+Nagpur,Ashi Nagar,632,Pole 1,Nagsen Nagar Highway T-Point
+Nagpur,Ashi Nagar,633,Pole 1,Haidari Chowk
+Nagpur,Ashi Nagar,634,Pole 1,Shastri Munch
+Nagpur,Ashi Nagar,635,Pole 1,Kadhar Zenda
+Nagpur,Ashi Nagar,636,Pole 1,M.M. Rubani High School
+Nagpur,Ashi Nagar,637,Pole 1,Kalsa Tall Chowk
+Nagpur,Ashi Nagar,637,Pole 1,Asha Hospital beside J.N. Road
+Nagpur,Ashi Nagar,638,Pole 1,Khaparkheda T-Point
+Nagpur,Ashi Nagar,639,Pole 1,Moth Puliya Near Warispura Turning 
+Nagpur,Ashi Nagar,640,Pole 1,Altaf Hotel Chowk Ismailpura
+Nagpur,Ashi Nagar,641,Pole 1,Kamptee Police Station T-Point
+Nagpur,Ashi Nagar,642,Pole 1,Kalmana T-Point
+Nagpur,Ashi Nagar,643,Pole 1,Jai bhim Chowk
+Nagpur,Ashi Nagar,645,Pole 1,Life Line Hospital Kalamna Road
+Nagpur,Ashi Nagar,646,Pole 1,Pankaj Mangal Karyalay Chowk Ranala
+Nagpur,Ashi Nagar,647,Pole 1,Ismailpura Masjid Chowk
+Nagpur,Ashi Nagar,648,Pole 1,Jaistambh Chowk
+Nagpur,Ashi Nagar,649,Pole 1,Jai bhawani Chowk
+Nagpur,Ashi Nagar,650,Pole 1,Ramgarh Railway Crossing
+Nagpur,Ashi Nagar,651,Pole 1,Railway Station Chowk
+Nagpur,Ashi Nagar,652,Pole 1,S.K.Porwal College Chowk
+Nagpur,Ashi Nagar,653,Pole 1,Dragon Palace Chowk
+Nagpur,Ashi Nagar,654,Pole 1,Bhoyar College T-Point
+Nagpur,Ashi Nagar,655,Pole 1,Ghorpad T-Point Yashodhara Nagar
+Nagpur,Ashi Nagar,656,Pole 1,Naya Nagar T-Point
+Nagpur,Ashi Nagar,657,Pole 1,Ajani Railway Crossing near 
+Nagpur,Ashi Nagar,658,Pole 1,Tahsil office opp.Jail road
+Nagpur,Ashi Nagar,659,Pole 1,Ranada Bhilgaon Road
+Nagpur,Ashi Nagar,660,Pole 1,Dr. Ambedkar Ground
+Nagpur,Ashi Nagar,661,Pole 1,Ghorpad Yerkheda Shiv Madhi Mandir Chowk
+Nagpur,Ashi Nagar,662,Pole 1,Chhatrapati Shivaji Maharaj Chowk-Prabhag 16
+Nagpur,Ashi Nagar,663,Pole 1,Gaushala Kamptee
+Nagpur,Ashi Nagar,664,Pole 1,Bhuraji Mandir-Prabhag 16
+Nagpur,Ashi Nagar,665,Pole 1,Juni Bhaji Mandi Darga
+Nagpur,Ashi Nagar,666,Pole 1,Gandhi Chowk Kamptee
+Nagpur,Ashi Nagar,667,Pole 1,Dr.Babasaheb Ambedkar Smarak-Jaistambh Chowk
+Nagpur,Ashi Nagar,668,Pole 1,Ramgadh-Near Agrawal Company
+Nagpur,Ashi Nagar,669,Pole 1,Ravidas Nagar Corner
+Nagpur,Ashi Nagar,670,Pole 1,Jama Masjid Chowk
+Nagpur,Ashi Nagar,671,Pole 1,Durga Chowk-Yerkheda
+Nagpur,Ashi Nagar,672,Pole 1,Under ground Bridge T-Point
+Nagpur,Laxmi Nagar,673,Pole 1,Shivaji chowk
+Nagpur,Laxmi Nagar,674,Pole 1,Ambedkar Chowk Hingna
+Nagpur,Laxmi Nagar,675,Pole 1,Panchwati Park
+Nagpur,Laxmi Nagar,676,Pole 1,Gupta Hotel
+Nagpur,Laxmi Nagar,677,Pole 1,Tahsil OFC
+Nagpur,Laxmi Nagar,678,Pole 1,PS Main Gate
+Nagpur,Mangalwari,679,Pole 1,Dayanand Park Chowk
+Nagpur,Ashi Nagar,680,Pole 1,Gurunanak college
+Nagpur,Mangalwari,681,Pole 1,Sai Mandir
+Nagpur,Ashi Nagar,682,Pole 1,Uppalwadi Rly Bridge
+Nagpur,Mangalwari,683,Pole 1,Kamptee Road Gurudwara
+Nagpur,Mangalwari,684,Pole 1,Dayanand Park Dayanand Park Chowk
+Nagpur,Mangalwari,685,Pole 1,New Dayanand Park Sai Chanduram Chowk
+Nagpur,Mangalwari,686,Pole 1,Bharat Mata Chowk Koradi
+Nagpur,Dhantoli,687,Pole 1,New Ajit Bekari
+Nagpur,Satranjipura,688,Pole 1,Devtare Chowk  Near Highmost light  Mehandibagh road  New Mangalwari
+Nagpur,Ashi Nagar,689,Pole 1,Taramata Chowk Near Yerkheda Grampanchayat  Yerkheda
+Nagpur,Ashi Nagar,690,Pole 1,Natthu Chinchulkar Panthela Near T-Point Yerkheda
+Nagpur,Ashi Nagar,691,Pole 1,Sayid Nagar  Near Natwar Balaji Mandir Ranala
+Nagpur,Ashi Nagar,692,Pole 1,Near Vitthal Rukhmini Mandir  juni Vasti  Ranala
+Nagpur,Dharampeth,693,Pole 1,Infront of Traffic Park Gate
+Nagpur,Dharampeth,694,Pole 1,Sugandha Sabagruha
+Nagpur,Ashi Nagar,695,Pole 1,Khallasi Line New Vasti
+Nagpur,Ashi Nagar,696,Pole 1,Kalbhairav Mandir
+Nagpur,Ashi Nagar,697,Pole 1,Tidke Layout Ranala
+Nagpur,Ashi Nagar,698,Pole 1,Ganesh Mandir Amit Thakre House Ranala
+Nagpur,Ashi Nagar,699,Pole 1,PNT Colony  Ranala
+Nagpur,Dhantoli,700,Pole 1,NMC Workshop
+Nagpur,Nehru Nagar,701,Pole 1,Pride Bar Hudkeshwar Road
+Nagpur,Lakadganj,702,Pole 1,Kalamana Police station
+Nagpur,Dhantoli,703,Pole 1,Chhatrapati nagar chowk
+Nagpur,Ashi Nagar,704,Pole 1,Bada Nala Old Kamptee
+Nagpur,Ashi Nagar,705,Pole 1,Tilak Nagar Old Kamptee
+Nagpur,Ashi Nagar,706,Pole 1,Ghorpad Road New Kamptee
+Nagpur,Ashi Nagar,707,Pole 1,Shitala Mata Mandir New Kamptee
