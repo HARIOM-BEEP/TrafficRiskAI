@@ -1,0 +1,32 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+.streamlit/
+.env
+.env.local
+frontend/.env
+frontend/.env.local
+
+*.db
+traffic_events.db
+
+# Logs
+*.log
+
+# Video/demo files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# YOLO/model weights
+*.pt
+*.onnx
+
+# Development scratch
+scratch/
+
+data/*.db

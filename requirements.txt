@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+streamlit
+plotly
+folium
+streamlit-folium
+ultralytics>=8.3.0
+opencv-python>=4.10.0
+lap>=0.5.12
+uvicorn>=0.29
+starlette>=0.46,<1.4
